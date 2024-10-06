@@ -32,7 +32,6 @@ This project delivers a robust sales performance analysis across various dimensi
 - Segment sales into different customer categories (Consumer, Corporate, Home Office)
 - Tailor offerings and marketing strategies to valuable customer segments
 
-![Sales by Customer Segment](images/sales_by_customer_segment.png)
 
 ### 🗺️ Sales by Region
 - Analyze performance across different parts of the country
